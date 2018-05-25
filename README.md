@@ -7,7 +7,7 @@ Em sua primeira versão, tornada pública em 25 de maio de 2018, ainda temos alg
 
 [Download Windows](https://github.com/PyEst/pyest.github.io/blob/master/PyEst_win.zip?raw=true)
 
-Para Executar o software em ambiente Windows, é necessário a instalação da linguagem [Python](https://python.org), versão 3.5. Para realizar o dowload desta versão, basta clicar [aqui](https://www.python.org/downloads/release/python-353/).
+Para Executar o software em ambiente Windows, é necessário a instalação da linguagem [Python](https://python.org), versão 3.5. Para realizar o download desta versão, basta clicar [aqui](https://www.python.org/downloads/release/python-353/).
 
 Após a instalação da linguagem, deve-se instalar as bibliotecas [Pandas](https://pandas.pydata.org/), [Scipy](https://www.scipy.org/), [Numpy](http://www.numpy.org/) e [Matplotlib](https://matplotlib.org/). A instalação pode ser feita clicando em *install_libs.bat*.
 
