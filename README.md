@@ -18,10 +18,11 @@ Após a instalação da linguagem, deve-se instalar as bibliotecas [Pandas](http
 
 Em ambiente linux, caso não esteja instalada a versão 3.5 da linguagem Python, pode-se fazer isso executando o script *install_libs.sh* via linha comando. Para isso, deve-se atribuir permissão ao arquivo com o comando *chmod +x install_libs.sh*. Feito isso, basta executar o script com *./install_libs.sh*.
 
+# Código Fonte
+Para ter acesso ao repositório com o código fonte da aplicação, basta clicar [aqui](https://github.com/PyEst/pyest.github.io).
+
 # Dúvidas ou erros
 
 Qualquer dúvida ou notificação sobre o incorreto funcionamento da aplicação, mande-me um e-mail.
 
 [jacksonosvaldo@live.com](mailto:jacksonosvaldo@live.com)
-
-### [GitHub](https://github.com/PyEst/pyest.github.io)
