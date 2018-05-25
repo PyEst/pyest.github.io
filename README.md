@@ -1,5 +1,5 @@
 # PyEst
-PyEst é um ferramenta para tratamento estatístico de dados criada em Python. Desenvolvido por [Jackson Osvaldo](https://jacksonosvaldo.github.com).
+PyEst é um ferramenta para tratamento estatístico de dados criada em Python. Desenvolvido por [Jackson Osvaldo](https://jacksonosvaldo.github.io).
 
 ## Windows
 
