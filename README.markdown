@@ -30,8 +30,14 @@ Qualquer dúvida ou notificação sobre o incorreto funcionamento da aplicação
 
 [jacksonosvaldo@live.com](mailto:jacksonosvaldo@live.com)
 
-# Como Citar Esta Aplicação
+# Referência
 
-> [BRAGA](http://lattes.cnpq.br/9545832415473039), Jackson Osvaldo da Silva. **PyEst**: Aplicação Para Análises Estatísticas. Version 0.1. [S.l.: s.n.], 2018.
+> [BRAGA, Jackson Osvaldo da Silva](http://lattes.cnpq.br/9545832415473039). **PyEst**: Aplicação Para Análises Estatísticas. Version 0.1. [S.l.: s.n.], 2018.
+
+# Citação
+
+Com autor no texto: ... Braga (2018)
+
+Com autor entre parênteses: ... (BRAGA, 2018)
 
 
