@@ -24,9 +24,9 @@ PyThon 64 Bits | Python 32 Bits
 
 **2º Passo**: Executando Instalador
 
-Após concluído o download, execute o instalador em modo administrativo. O sistema perguntará se você deseja prosseguir àquela operação. Clique em "sim" e agurde.
+Após concluído o download, execute o instalador em modo administrativo. O sistema perguntará se você deseja prosseguir àquela operação. Clique em "sim" e aguarde.
 
-Deixe marcada a opção para adicionar os caminhos das pastas da linguagem nas variáveis de ambiente do sistema. Marque a opção relativa a instalação completa e continue.
+Deixe marcada a opção para adicionar os caminhos das pastas da linguagem às variáveis de ambiente do sistema. Marque a opção relativa a instalação padrão e prossiga.
 
 Clique em prosseguir e aguarde a instalação terminar.
 
