@@ -32,7 +32,7 @@ Clique em prosseguir e aguarde a instalação terminar.
 
 Caso a explicação acima esteja confusa, veja o tutorial gravado por [Nilo Menezes](https://python.nilo.pro.br/).
 
-[[!Alt Text](Captura de tela de 2018-05-28 14-09-00.png)](https://youtu.be/gDxt7mncWys)
+[![](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/gDxt7mncWys)
 
 **3º Passo**: Concluindo
 
