@@ -5,7 +5,7 @@ Em sua primeira versão, tornada pública em 25 de maio de 2018, ainda temos alg
 
 # Windows
 
-[Download Windows](https://github.com/PyEst/pyest.github.io/blob/master/PyEst_win.zip?raw=true)
+[Download Windows](https://github.com/PyEst/PyEst/blob/master/exe/PyEst_win.zip?raw=true)
 
 Para Executar o software em ambiente Windows, é necessário a instalação da linguagem [Python](https://python.org), versão 3.5. Para realizar o download desta versão, basta clicar [aqui](https://www.python.org/downloads/release/python-353/).
 
@@ -14,12 +14,12 @@ Após a instalação da linguagem, deve-se instalar as bibliotecas [Pandas](http
 
 # Linux
 
-[Dowload Linux](https://github.com/PyEst/pyest.github.io/blob/master/PyEst_linux.zip?raw=true)
+[Dowload Linux](https://github.com/PyEst/PyEst/blob/master/exe/PyEst_linux.zip?raw=true)
 
 Em ambiente linux, caso não esteja instalada a versão 3.5 da linguagem Python, pode-se fazer isso executando o script *install_libs.sh* via linha comando. Para isso, deve-se atribuir permissão ao arquivo com o comando *chmod +x install_libs.sh*. Feito isso, basta executar o script com *./install_libs.sh*.
 
 # Código Fonte
-Para ter acesso ao repositório com o código fonte da aplicação, basta clicar [aqui](https://github.com/PyEst/pyest.github.io).
+Para ter acesso ao repositório com o código fonte da aplicação, basta clicar [aqui](https://github.com/PyEst/PyEst/tree/master/source).
 
 # Dúvidas ou erros
 
