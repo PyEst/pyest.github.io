@@ -37,7 +37,7 @@ Caso a explicação acima esteja confusa, veja o tutorial gravado por [Nilo Mene
 Após a instalação da linguagem, deve-se instalar as bibliotecas [Pandas](https://pandas.pydata.org/), [Scipy](https://www.scipy.org/), [Numpy](http://www.numpy.org/) e [Matplotlib](https://matplotlib.org/). A instalação pode ser feita clicando em *install_libs.bat*.
 
 Uma maneira alternativa para instalar as dependências é execuntado as seguintes linhas de comando:
-```bash
+```
 python3 -m pip install scipy matplotlib pandas numpy
 ```
 # Linux
@@ -47,7 +47,7 @@ python3 -m pip install scipy matplotlib pandas numpy
 Em ambiente linux, caso não esteja instalada a versão 3.5 da linguagem Python, pode-se fazer isso executando o script *install_libs.sh* via linha comando. Para isso, deve-se atribuir permissão ao arquivo com o comando *chmod +x install_libs.sh*. Feito isso, basta executar o script com *./install_libs.sh*.
 
 Uma maneira alternativa para instalar as dependências é execuntado as seguintes linhas de comando:
-```bash
+```
 sudo apt-get install python3.5
 
 python3 -m pip install scipy matplotlib pandas numpy
