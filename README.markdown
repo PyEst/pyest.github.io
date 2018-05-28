@@ -1,7 +1,10 @@
 # PyEst
 
+> BRAGA, Jackson Osvaldo da Silva. **PyEst**: Aplicação Para Análises Estatísticas. Version 0.1. [S.l.: s.n.], 2018.
+
 
 ![Alt Text](logo.png)
+
 
 PyEst é um ferramenta para tratamento estatístico desenvolvida em Python. Proposta por [Jackson Osvaldo](https://jacksonosvaldo.github.io), a aplicação pretende ser útil em diversas áreas, dinamizando o tratamento e análise de dados, sejam eles ambientais ou não.
 
