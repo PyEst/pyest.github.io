@@ -30,7 +30,7 @@ Deixe marcada a opção para adicionar os caminhos das pastas da linguagem às v
 
 Clique em prosseguir e aguarde a instalação terminar.
 
-Caso a explicação acima esteja confusa, veja o tutorial gravado por [Nilo Menezes](https://python.nilo.pro.br/) de título [*Instalando o Python no Windows*](https://youtu.be/gDxt7mncWys).
+Caso a explicação acima esteja confusa, veja o tutorial gravado por mim de título [*PyEst - Instalação em Ambiente Windows*](https://youtu.be/YWtz38CqAMc).
 
 **3º Passo**: Concluindo
 
