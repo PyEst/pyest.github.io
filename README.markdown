@@ -75,4 +75,6 @@ Com autor no texto: ... Braga (2018)
 
 Com autor entre parênteses: ... (BRAGA, 2018)
 
+# Publicações
 
+BRAGA, J. O.; CAMPOS, L. D. [**PyEst**: Software Estatístico Desenvolvido em Python] (pub/I JORNADA DE TECNOLOGIA DA INFORMAÇÃO DA UFRA.pdf). 2018. (Apresentação de Trabalho/Comunicação).
