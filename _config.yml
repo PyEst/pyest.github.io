@@ -1,4 +1,3 @@
-theme: jekyll-theme-modernist
-title: Software Estatístico Desenvolvido em Python
-description: Jackson Osvaldo da Silva Braga
-#jekyll-theme-cayman
+theme: jekyll-theme-cayman
+title: PyEst | Software Estatístico Desenvolvido em Python
+description: Developed by Jackson Osvaldo da Silva Braga
